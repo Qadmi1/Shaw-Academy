@@ -1,0 +1,70 @@
+
+  Q1:What is MAD?
+	Mobile App Development (aka MAD), is both a Technical & Creative Profession. The art of communicating ideas and visual, 
+        interactive content, in a very technical correct way. 
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  Q2:What is the MAD agenda?
+	1-Design - Why, Who
+	2-Develop- What, How, Monetize
+	3-Distribute - Strategies, Publish
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  Q3:What do you need to know as Mobile App Developer before development of an App?  
+	You need to be thinking about the mobile app ecosystem and the world you're App is coming into creatio in and the context you're 
+	app is coming into. It's no use running full tilt into development and not understanding the Mobile App world and the context of 
+	that world.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  Q4:Is Mobile App Development all about coding?
+	No, unlike other software development it's also about having good understanding of the mobile app world and ecosystem so that you 
+	can use every little bit of information at you're disposable to give you're App idea the best chance.
+	
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  Q5:Why make mobile Apps?
+	Becuase we are spending more time on our mobile devices than ever before more than Labtops, Tv etc... and 90% of this time is
+	spent in Apps.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  Q6:What do do you need to do to make people spend a significant amount of time in you're App?
+	You need to make you're App engaging and keep users coming back again and again and when you see people spend 90% of their time
+	in Apps rather than the browser you need to start thinking why they do that and how can you design you're App to contribute to
+	that 90% and you can take a portion of that.  
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  Q7:What is a Mobile, App, and Development?
+	Mobile = Portable, Handheld. 
+	App = A List of Instructions that Tell the Computer what to do next. 
+	Development = The Process involved from Idea to Distribution. 
+		
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  Q8:What is the importance of an App to to business?
+	Most businesses report that an App would massively impact their business online.
+	Here are some of the benefits for a business. 
+	1. Build & Cultivate Customer Loyalty
+	2. Provide Value to the Customer
+	3. Engage with users where they are the most
+	4. Create a Direct Marketing Channel
+	5. Future Proof your Business 
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  Q9:What are the steps for developing a Mobile App?
+	All Development involves creating a solution to an existing problem.
+	1. Identify the Problem
+	2. Design a Solution
+	3. Write the Program
+	4. Check the Solution
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+  Q10:What should you the develeoper ask yourself before developing youre App?
+	Check the 'AskYoureself' picture.
+
+	 

@@ -1,0 +1,45 @@
+
+  
+  Q1:What does it mean to target youre audience?
+	When we decide to Target our Audience, we really mean to say we would like to select the individuals who will benefit the most 
+	from using our App.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  Q2:What does it mean to identify youre users?
+	The particular users you are looking for tend to become obvious when you have designed the App Idea and ask yourself, what 
+	reason would my imaginary person have for downloading and using this app?
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  Q3:Talk about doing youre research of the App.
+	By Identifying your User, you can begin to learn more about a typical user. Finding out Market Research such as What Age-Group 
+	they belong to or what Country they are from. A relevantly easy way to capture this data is to check out reviews of competitors.
+	by following this process, you’ll be able to get a better understanding of what your users are looking for.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  Q4:What is the Parento Principle?
+	80/20 Rule 
+	For Many Events, roughly 80% of the Effects come from 20% of the Causes. 
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  Q5:Who is your user?
+	To begin understanding “Who is Going to use my App?” we’ll need to start creating a User Profile. Creating a Persona Title for 
+	your User helps you to understand who this person is and what they will benefit from in your App.The point here is to start 
+	getting into the mindset of your User. Perhaps they aren’t Tech-Savvy or don’t have the same interest in Technology as you do.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  Q6:Talk about User Persona.
+	Check the UserPersona picture.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+  Q7:Give some strategies for idea building?
+	1. Forget what you think you know
+	2. Understand your User
+	3. Constraints Never come First
+	4. Use all Resources Available to you
+	5. Keep It Simple 
